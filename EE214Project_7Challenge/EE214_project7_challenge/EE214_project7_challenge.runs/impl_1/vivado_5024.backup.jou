@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1067303 on Wed Nov 12 18:52:34 MST 2014
+# IP Build 1068446 on Thu Nov 13 19:40:58 MST 2014
+# Start of session at: Thu Apr 23 18:35:07 2015
+# Process ID: 4044
+# Log file: C:/Users/Noble/Documents/VivadoProjects/EE214_project7_challenge/EE214_project7_challenge.runs/impl_1/stopwatch.vdi
+# Journal file: C:/Users/Noble/Documents/VivadoProjects/EE214_project7_challenge/EE214_project7_challenge.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source stopwatch.tcl -notrace

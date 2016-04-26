@@ -1,0 +1,21 @@
+﻿Build started 4/30/2015 5:18:14 PM.
+     1>Project "C:\Users\Zac\Documents\Visual Studio 2012\Projects\PA8\PA8\PA8.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ISFML\include\ /ZI /nologo /W3 /WX- /Od /Oy- /D SFML_STATIC /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt bulletmanager.cpp entitymanager.cpp game.cpp main.cpp player.cpp
+         player.cpp
+     1>c:\users\zac\documents\visual studio 2012\projects\pa8\pa8\player.h(8): error C2864: 'Player::playerRad' : only static const integral data members can be initialized within a class
+     1>c:\users\zac\documents\visual studio 2012\projects\pa8\pa8\player.cpp(8): error C2758: 'Player::playerRad' : must be initialized in constructor base/member initializer list
+                 c:\users\zac\documents\visual studio 2012\projects\pa8\pa8\player.h(8) : see declaration of 'Player::playerRad'
+         main.cpp
+     1>c:\users\zac\documents\visual studio 2012\projects\pa8\pa8\player.h(8): error C2864: 'Player::playerRad' : only static const integral data members can be initialized within a class
+         game.cpp
+     1>c:\users\zac\documents\visual studio 2012\projects\pa8\pa8\player.h(8): error C2864: 'Player::playerRad' : only static const integral data members can be initialized within a class
+         entitymanager.cpp
+         bulletmanager.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Zac\Documents\Visual Studio 2012\Projects\PA8\PA8\PA8.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.72

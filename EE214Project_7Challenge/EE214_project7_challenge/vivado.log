@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Mon Apr 25 18:08:53 2016
+# Process ID: 4784
+# Current directory: C:/Users/zacha/Documents/GitHub/WSU/EE214Project_7Challenge/EE214_project7_challenge
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10192 C:\Users\zacha\Documents\GitHub\WSU\EE214Project_7Challenge\EE214_project7_challenge\EE214_project7_challenge.xpr
+# Log file: C:/Users/zacha/Documents/GitHub/WSU/EE214Project_7Challenge/EE214_project7_challenge/vivado.log
+# Journal file: C:/Users/zacha/Documents/GitHub/WSU/EE214Project_7Challenge/EE214_project7_challenge\vivado.jou
+#-----------------------------------------------------------start_gui
+oexit
+INFO: [Common 17-206] Exiting Vivado at Mon Apr 25 18:09:24 2016...
+Challenge/EE214_project7_challenge/EE214_project7_challenge.xpr
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/Users/zacha/Documents/GitHub/WSU/EE214Project_7Challenge/EE214_project7_challenge'
+INFO: [Project 1-313] Project file moved from 'C:/Users/Zac/Desktop/EE214Project_7Challenge/EE214_project7_challenge' since last save.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-229] Project 'EE214_project7_challenge.xpr' is read-only and therefore could not be upgraded for this version of Vivado.  Use 'File | Save Project As...' if you wish to save an upgraded copy.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2015.4/data/ip'.
+open_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:05 . Memory (MB): peak = 675.125 ; gain = 116.500
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Apr 25 18:09:50 2016...

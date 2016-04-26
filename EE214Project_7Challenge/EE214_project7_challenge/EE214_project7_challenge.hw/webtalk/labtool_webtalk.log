@@ -1,0 +1,12 @@
+
+****** Webtalk v2014.4 (64-bit)
+  **** SW Build 1067303 on Wed Nov 12 18:52:34 MST 2014
+  **** IP Build 1068446 on Thu Nov 13 19:40:58 MST 2014
+    ** Copyright 1986-2014 Xilinx, Inc. All Rights Reserved.
+
+source C:/Users/Noble/Documents/VivadoProjects/EE214_project7_challenge/EE214_project7_challenge.hw/webtalk/labtool_webtalk.tcl -notrace
+
+    while executing
+"webtalk_transmit -clientid 1802543171 -regid "210999219_0_0_935" -xml C:/Users/Noble/Documents/VivadoProjects/EE214_project7_challenge/EE214_project7_..."
+    (file "C:/Users/Noble/Documents/VivadoProjects/EE214_project7_challenge/EE214_project7_challenge.hw/webtalk/labtool_webtalk.tcl" line 28)
+INFO: [Common 17-206] Exiting Webtalk at Thu Apr 30 17:54:16 2015...
