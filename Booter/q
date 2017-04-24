@@ -1,0 +1,2 @@
+all:
+	qemu-system-i386 -hda vdisk -smp 8 -m 512M -serial mon:stdio
