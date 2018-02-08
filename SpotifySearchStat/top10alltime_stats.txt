@@ -1,0 +1,38 @@
+The results from Spotify
+
+
+The Twist by Chubby Checker
+The duration of the song is: 2 minutes and 33 seconds
+The rating of the song is: 45
+Smooth by Santana
+The duration of the song is: 4 minutes and 54 seconds
+The rating of the song is: 64
+Mack the Knife by Bobby Darin
+The duration of the song is: 3 minutes and 4 seconds
+The rating of the song is: 51
+How Do I Live by LeAnn Rimes
+The duration of the song is: 4 minutes and 26 seconds
+The rating of the song is: 58
+Party Rock Anthem by LMFAO
+The duration of the song is: 4 minutes and 22 seconds
+The rating of the song is: 58
+I Gotta Feeling by The Black Eyed Peas
+The duration of the song is: 4 minutes and 49 seconds
+The rating of the song is: 63
+Macarena by Los Del Rio
+The duration of the song is: 4 minutes and 13 seconds
+The rating of the song is: 61
+Physical by Olivia Newton-John
+The duration of the song is: 3 minutes and 44 seconds
+The rating of the song is: 43
+You Light Up My Life by Debby Boone
+The duration of the song is: 3 minutes and 38 seconds
+The rating of the song is: 43
+Hey Jude by The Beatles
+The duration of the song is: 7 minutes and 5 seconds
+The rating of the song is: 64
+The Total Number of Songs: 10
+The average song length is: 4 minutes, and 17 seconds
+The average song popularity is: 55.0
+The longest song is: Hey Jude by The Beatles whose length is:7 minutes, and 5 seconds
+The most popular song is: Smooth by Santana which was rated at: 64
